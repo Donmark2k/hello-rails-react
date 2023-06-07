@@ -82,8 +82,9 @@ Install this project with:
 
 To run the project, execute the following command:
 
-```sh
-./bin/dev```
+``` sh
+./bin/dev 
+```
 ### Run tests
 
 -  Type `Rspec`: To run test `
